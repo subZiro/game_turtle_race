@@ -3,5 +3,5 @@ game turtle race
 
 
 
-## screenshots
-![index page](https://github.com/subZiro/test_UploadImage_django_sqlite/blob/master/index.jpg)
+#### screenshots
+![index page](https://github.com/subZiro/game_turtle_race/blob/master/race_turtles.png)
